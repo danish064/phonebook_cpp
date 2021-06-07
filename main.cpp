@@ -17,6 +17,5 @@ int main()
     p.insert(new Node("Abaa", "Isl", "0334220110"));
     p.insert(new Node("Az", "Isl", "0334220110"));
 
-    // p.insert(new Node("Bhai", "Isl", "0334220110"));
     p.print();
 }
