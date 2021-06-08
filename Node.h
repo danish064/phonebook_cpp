@@ -15,7 +15,7 @@ public:
     {
         next = NULL;
     }
-    Node(string name, string number, string city)
+    Node(string name, string city, string number)
     {
         this->name = name;
         this->number = number;
